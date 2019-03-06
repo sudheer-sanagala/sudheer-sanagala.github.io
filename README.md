@@ -20,7 +20,7 @@ How to create a simple landing page for developers
 
 - Now commit the changes in `index.html` using `git add .` and `git commit -m "Initial Commit"`
 
-- Now add the remote github url to push the changes using `https://github.com/chaitanyathathi/chaitanyathathi.github.io.git`
+- Now add the remote github url to push the changes using `git remote add origin https://github.com/sudheer-sanagala/sudheer-sanagala.github.io.git`
 
 - Push the changes to github using `git push -u origin/master`
 
